@@ -1,0 +1,2 @@
+Archetypes with LDA:
+By using the  LDA topic model, the top words in each archetype are  infered. The word probabilities of each word pertaining to the archetype are also infered. Thus, the topic words and word probabilities for each archetype  in a document is found by using  LDA topic model.
