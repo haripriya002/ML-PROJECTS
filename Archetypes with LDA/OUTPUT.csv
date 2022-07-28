@@ -1,0 +1,45 @@
+Archetype 0 
+ 0.028*"schema" + 0.028*"datum" + 0.028*"domain" + 0.028*"suitable" + 0.028*"publication" + 0.014*"et" + 0.014*"dependence" + 0.014*"linear" + 0.014*"implementeda" + 0.014*"accuracy" 
+
+Archetype 1 
+ 0.038*"health" + 0.038*"language" + 0.026*"phenotype" + 0.026*"challenge" + 0.013*"numerical" + 0.013*"https" + 0.013*"criterion" + 0.013*"protocol" + 0.013*"eligibility" + 0.013*"deft" 
+
+Archetype 2 
+ 0.035*"temporal" + 0.028*"datum" + 0.028*"document" + 0.028*"system" + 0.028*"set" + 0.014*"architecture" + 0.014*"conjunction" + 0.014*"integration" + 0.014*"selection" + 0.014*"care" 
+
+Archetype 3 
+ 0.048*"system" + 0.043*"relationship" + 0.032*"datum" + 0.017*"method" + 0.017*"graph" + 0.017*"available" + 0.017*"amount" + 0.017*"important" + 0.017*"useful" + 0.017*"aware" 
+
+Archetype 4 
+ 0.045*"text" + 0.034*"clinical" + 0.023*"available" + 0.023*"semantic" + 0.023*"annotation" + 0.023*"processing" + 0.023*"kind" + 0.023*"manual" + 0.023*"process" + 0.012*"g" 
+
+Archetype 5 
+ 0.033*"datum" + 0.022*"approach" + 0.022*"sensitive" + 0.022*"procedure" + 0.012*"new" + 0.012*"privacy" + 0.012*"personal" + 0.012*"protection" + 0.012*"such" + 0.012*"store" 
+
+Archetype 6 
+ 0.038*"data" + 0.026*"provider" + 0.026*"knowledge" + 0.026*"datum" + 0.026*"need" + 0.026*"patient" + 0.013*"such" + 0.013*"query" + 0.013*"setting" + 0.013*"execution" 
+
+Archetype 7 
+ 0.025*"note" + 0.025*"clinical" + 0.025*"disorder" + 0.025*"movement" + 0.025*"patient" + 0.025*"information" + 0.025*"paragraph" + 0.025*"evaluation" + 0.013*"assessment" + 0.013*"ehrs" 
+
+Archetype 8 
+ 0.042*"relevant" + 0.032*"case" + 0.032*"author" + 0.032*"document" + 0.032*"extraction" + 0.022*"datum" + 0.022*"identification" + 0.011*"access" + 0.011*"web" + 0.011*"compatible" 
+
+Archetype 9 
+ 0.054*"ontology" + 0.022*"identification" + 0.022*"health" + 0.022*"task" + 0.022*"research" + 0.022*"level" + 0.022*"disease" + 0.022*"subject" + 0.011*"amount" + 0.011*"japanese" 
+
+Archetype 10 
+ 0.082*"dental" + 0.082*"procedure" + 0.033*"surgical" + 0.033*"endodontic" + 0.017*"different" + 0.017*"work" + 0.017*"system" + 0.017*"design" + 0.017*"ehr" + 0.017*"prospective" 
+
+Archetype 11 
+ 0.054*"datum" + 0.043*"clinical" + 0.033*"phenotype" + 0.022*"time" + 0.022*"early" + 0.022*"psychosis" + 0.022*"research" + 0.022*"medical" + 0.011*"presentation" + 0.011*"first" 
+
+Archetype 12 
+ 0.152*"disease" + 0.056*"rare" + 0.025*"information" + 0.024*"health" + 0.017*"record" + 0.017*"electronic" + 0.017*"patient" + 0.009*"such" + 0.009*"network" + 0.009*"map" 
+
+Archetype 13 
+ 0.031*"clinical" + 0.031*"datum" + 0.031*"assessment" + 0.016*"detection" + 0.016*"database" + 0.016*"mental" + 0.016*"description" + 0.016*"history" + 0.016*"automated" + 0.016*"ehr" 
+
+Archetype 14 
+ 0.018*"part" + 0.018*"open" + 0.018*"anchor" + 0.018*"source" + 0.018*"sion" + 0.018*"problem" + 0.018*"difficult" + 0.018*"right" + 0.018*"tooth" + 0.018*"point" 
+
